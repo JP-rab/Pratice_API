@@ -18,13 +18,13 @@ A simple REST API that connects a web application to a PostgreSQL database using
 ## Project Structure
 
 partner-api/
-├── .env
-├── main.py
-├── database.py
-├── models.py
-├── auth.py
-├── routers/
-│ └── partners.py
+.env
+main.py
+database.py
+models.py
+auth.py
+routers/
+  -partners.py
 
 ---
 
