@@ -24,9 +24,11 @@ partner-api/
 ├── models.py
 ├── auth.py
 └── routers/
-    └── partners.py
+    └── partners.py"
 
 ---
+
+Go Check out the Screenshots
 
 ## Setup Instructions
 
