@@ -16,6 +16,7 @@ A simple REST API that connects a web application to a PostgreSQL database using
 ---
 
 ## Project Structure
+'''text
 partner-api/
 ├── .env
 ├── main.py
